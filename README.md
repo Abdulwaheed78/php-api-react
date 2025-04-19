@@ -56,10 +56,10 @@ Now the frontend is connected to the backend.
 To run the frontend project, stay inside `user-crud` folder and run:
 
 ```bash
-npm run dev
+npm start
 ```
 
-This will start your project. Open your browser and go to `http://localhost:5173` (or another port).
+This will start your project. Open your browser and go to `http://localhost:3000` (or another port).
 
 ---
 
